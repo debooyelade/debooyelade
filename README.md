@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debooyelade
+- 👋 Hi, I’m @debooyelade a web/product developer
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning web3.0 Development from web3bridge
 - 💞️ I’m looking to collaborate on blockchain related projects
